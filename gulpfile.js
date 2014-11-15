@@ -1,7 +1,3 @@
-gulp-i5ting-toc
-===============
-
-```
 var gulp = require('gulp');
 var i5ting_toc = require('./');
 
@@ -15,6 +11,6 @@ var opt = {
 
 gulp.task('default', function() {
 	gulp.src('sample.md')
-		.pipe(i5ting_toc(opt));
+		.pipe(i5ting_toc(opt))
+		.pipe(gulp.dest('test/'));
 });
-```
