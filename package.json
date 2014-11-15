@@ -1,0 +1,33 @@
+{
+  "name": "gulp-i5ting-toc",
+  "version": "1.0.0",
+  "description": "gulp-i5ting-toc ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/gulp-i5ting-toc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/gulp-i5ting-toc/issues"
+  },
+  "dependencies": {
+    "bufferhelper": "^0.2.0",
+    "gulp": "^3.8.7",
+    "handlebars": "^2.0.0",
+    "marked": "^0.3.2",
+    "object-assign": "^1.0.0",
+    "open": "0.0.5",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^2.1.1",
+    "gulp-watch": "^0.7.0",
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/i5ting/gulp-i5ting-toc"
+}
