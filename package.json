@@ -1,7 +1,7 @@
 {
   "name": "gulp-i5ting-toc",
-  "version": "1.0.0",
-  "description": "gulp-i5ting-toc ===============",
+  "version": "1.0.1",
+  "description": "gulp-i5ting-toc: a gulp task wrapper of i5ting_ztree_toc https://github.com/i5ting/i5ting_ztree_toc ",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
@@ -20,11 +20,8 @@
     "bufferhelper": "^0.2.0",
     "gulp": "^3.8.7",
     "gulp-util": "^3.0.1",
-    "handlebars": "^2.0.0",
     "i5ting_toc": "^1.0.6",
-    "marked": "^0.3.2",
     "object-assign": "^1.0.0",
-    "open": "0.0.5",
     "through2": "^0.6.1"
   },
   "devDependencies": {
