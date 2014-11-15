@@ -4,7 +4,8 @@
   "description": "gulp-i5ting-toc ===============",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm publish .",
+    "test": "gulp"
   },
   "repository": {
     "type": "git",
