@@ -9,6 +9,10 @@ gulp-i5ting-toc is  a gulp task wrapper of i5ting_ztree_toc https://github.com/i
 - [node版本i5ting_toc](https://github.com/i5ting/tocmd.npm)
 - [gulp task for i5ting-toc](https://github.com/i5ting/gulp-i5ting-toc)
 
+## Install
+
+    npm install --save i5ting_toc
+
 ## Usage
 
 ```
