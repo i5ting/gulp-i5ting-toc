@@ -11,7 +11,7 @@ gulp-i5ting-toc is  a gulp task wrapper of i5ting_ztree_toc https://github.com/i
 
 ## Install
 
-    npm install --save i5ting_toc
+    npm install --save gulp-i5ting-toc
 
 ## Usage
 
